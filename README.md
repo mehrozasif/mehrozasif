@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mehrozasif
-- 👀 I’m interested in nodejs
+- 👀 I’m interested in Nextjs
 - 🌱 I’m currently learning reactjs
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me mehroz.rj@gmail.com
