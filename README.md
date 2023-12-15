@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @mehrozasif
 - 👀 I’m interested in Nextjs
-- 🌱 I’m currently learning reactjs
-- 💞️ I’m looking to collaborate on ..
-- 📫 How to reach me mehroz.rj@gmail.com
+- 🌱 I’m currently working as a software engineer
+- 📫 How to reach me 777mehroz@gmail.com
 
 <!---
 mehrozasif/mehrozasif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
